@@ -5,7 +5,7 @@
         <title></title>
     </head>
     <body>
-        <h1>Atividade Avaliativa – Técnicas de Programação</h1>
+        <h1>Atividade Avaliativa – DS – Técnicas de Programação</h1>
         <p>Atividade avaliativa da disciplina de Técnicas de Programação, do curso Técnico em Desenvolvimento de Sistemas da Etec Comendador João Rays</p>
         <h3> Membros dos grupo:</h3>
         <ul>
