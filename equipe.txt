@@ -5,8 +5,8 @@
         <title></title>
     </head>
     <body>
-        <h1>TRABALHO EM EQUIPE 01</h1>
-        <p>Atividade avaliativa da disciplina de TÈcnicas de ProgramaÁ„o, do curso TÈcnico em Desenvolvimento de Sistemas da Etec Comendador Jo„o Rays</p>
+        <h1>Atividade Avaliativa ‚Äì T√©cnicas de Programa√ß√£o</h1>
+        <p>Atividade avaliativa da disciplina de T√©cnicas de Programa√ß√£o, do curso T√©cnico em Desenvolvimento de Sistemas da Etec Comendador Jo√£o Rays</p>
         <h3> Membros dos grupo:</h3>
         <ul>
             <li>Cleiton Lopes dos Santos</li>
