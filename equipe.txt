@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <h1>TRABALHO EM EQUIPE 01</h1>
+        <p>Atividade avaliativa da disciplina de Técnicas de Programação, do curso Técnico em Desenvolvimento de Sistemas da Etec Comendador João Rays</p>
+        <h3> Membros dos grupo:</h3>
+        <ul>
+            <li>Cleiton Lopes dos Santos</li>
+        </ul>
+    </body>
+</html>
